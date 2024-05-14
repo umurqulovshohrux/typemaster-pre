@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow/Barlow-Black.ttf);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow/Barlow-Medium.ttf);
+    font-weight: 500;
+}
